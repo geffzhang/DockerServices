@@ -1,0 +1,1 @@
+nuget pack DockerServices.csproj -Prop Configuration=Release
